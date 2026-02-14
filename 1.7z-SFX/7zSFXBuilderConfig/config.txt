@@ -1,0 +1,11 @@
+﻿;!@Install@!UTF-8!
+InstallPath="C:\\Program Files\\Typora\\resources\\"
+GUIFlags="8+16"
+MiscFlags="4"
+7zSFXBuilder_7zArchive=C:\Users\PL-DEV\Desktop\SFX\1.7z-SFX\Test.7z
+7zSFXBuilder_SFXName=C:\Users\PL-DEV\Desktop\SFX\1.7z-SFX\Test.exe
+7zSFXBuilder_SFXIcon=C:\Users\PL-DEV\Desktop\SFX\Icons\Typora.ico
+7zSFXBuilder_UseDefMod=7zsd_LZMA2_x64
+7zSFXBuilder_UPXCommands=--best --all-methods
+7zSFXBuilder_Res_LegalCopyright=Copyright Â© 2025 PLR7EDU
+;!@InstallEnd@!
