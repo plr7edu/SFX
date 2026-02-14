@@ -5167,3 +5167,45 @@
 [2026-02-13 13:07:31] GUI displayed successfully
 [2026-02-13 13:07:32] Edit button clicked - Launching Config Editor
 [2026-02-13 13:07:32] Config Editor launched successfully
+[2026-02-14 10:16:10] ========================================
+[2026-02-14 10:16:10] SFX Helper Tool - Session Started
+[2026-02-14 10:16:10] Script Directory: C:\Users\PL-DEV\Desktop\SFX\1.7z-SFX
+[2026-02-14 10:16:10] ========================================
+[2026-02-14 10:16:10] Tray icon set: C:\Users\PL-DEV\Desktop\SFX\1.7z-SFX\Icon\7zsfxbuilder_healper.ico
+[2026-02-14 10:16:10] Setting up dark mode tray menu
+[2026-02-14 10:16:10] Dark mode applied to tray menu
+[2026-02-14 10:16:10] Configuration file found: C:\Users\PL-DEV\Desktop\SFX\1.7z-SFX\SFXConfig.ini
+[2026-02-14 10:16:10] Config Editor found: C:\Users\PL-DEV\Desktop\SFX\1.7z-SFX\7zSFXBuilder-Config-Editor.exe
+[2026-02-14 10:16:10] Loading configurations from INI file...
+[2026-02-14 10:16:10] Loaded config: 3_APT_Setup
+[2026-02-14 10:16:10] Loaded config: APPDATA_Nilesoft_Shell
+[2026-02-14 10:16:10] Loaded config: Current-Path-Extract-Windows-11-Icon
+[2026-02-14 10:16:10] Loaded config: Directory_Opus_Appdata
+[2026-02-14 10:16:10] Loaded config: Documents-DS
+[2026-02-14 10:16:10] Loaded config: EasyWorship-7-Hymns-Databases
+[2026-02-14 10:16:10] Loaded config: Encrypted-Current-Path-Extract-Defender-Icon
+[2026-02-14 10:16:10] Loaded config: Encrypted-Current-Path-Extract-Microsoft-Office-Icon
+[2026-02-14 10:16:10] Loaded config: Encrypted-Current-Path-Extract-Windows-10-Icon
+[2026-02-14 10:16:10] Loaded config: Encrypted-Current-Path-Extract-Windows-11-Icon
+[2026-02-14 10:16:10] Loaded config: GitHub-Exist-SSH-Key-Setup
+[2026-02-14 10:16:10] Loaded config: Hosts
+[2026-02-14 10:16:10] Loaded config: Macro-Keyboard
+[2026-02-14 10:16:10] Loaded config: Markdown-Monster_Patch
+[2026-02-14 10:16:10] Loaded config: Nilesoft-Shell-Backup-Configs
+[2026-02-14 10:16:10] Loaded config: Power-Toys-Default-Post-Configs
+[2026-02-14 10:16:10] Loaded config: SciTE-Dark-Mode-Config
+[2026-02-14 10:16:10] Loaded config: Self-Extracting-Executables
+[2026-02-14 10:16:10] Loaded config: Synchredible_Patch
+[2026-02-14 10:16:10] Loaded config: Temp-Run
+[2026-02-14 10:16:10] Loaded config: Typora_Patch
+[2026-02-14 10:16:10] Loaded config: Windows-Top_Patch
+[2026-02-14 10:16:10] Loaded config: Windows_Subsystem_For_Android
+[2026-02-14 10:16:10] Loaded config: Wondershare-Filmora_Patch
+[2026-02-14 10:16:10] Total configurations loaded: 24
+[2026-02-14 10:16:10] Creating main GUI
+[2026-02-14 10:16:10] GUI icon set successfully
+[2026-02-14 10:16:10] Registering WM_DROPFILES message handler
+[2026-02-14 10:16:10] Enabling drag and drop on GUI window, HWND: 1443408
+[2026-02-14 10:16:10] DragAcceptFiles result: 264
+[2026-02-14 10:16:10] Applying dark mode theme
+[2026-02-14 10:16:10] GUI displayed successfully
